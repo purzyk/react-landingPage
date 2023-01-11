@@ -2,7 +2,7 @@ import { useForm } from "react-hook-form";
 import { SelectedPage } from "@/shared/types";
 import { motion } from "framer-motion";
 import ContactUsPageGraphic from "@/assets/ContactUsPageGraphic.png";
-import ContactUsJadzia from "@/assets/jadzia-malowana.png";
+
 import HText from "@/shared/HText";
 
 type Props = {
@@ -130,7 +130,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
                 SUBMIT
               </button>
             </form>
-            <img src={ContactUsJadzia} />
+
           </motion.div>
 
           <motion.div
