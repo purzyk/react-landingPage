@@ -11,7 +11,7 @@ import Class from "./Class";
 
 const classes: Array<ClassType> = [
   {
-    name: "Dog's princess",
+    name: "Dog princess",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     image: image1,
@@ -21,7 +21,7 @@ const classes: Array<ClassType> = [
     image: image2,
   },
   {
-    name: "Laying in bed",
+    name: "Lying in bed",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     image: image3,
@@ -33,7 +33,7 @@ const classes: Array<ClassType> = [
     image: image4,
   },
   {
-    name: "Dirty buisness",
+    name: "Dirty business",
     image: image5,
   },
   {
